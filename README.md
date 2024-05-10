@@ -10,11 +10,11 @@ In this project, I take on the role of an analyst for Instacart to perform an in
 - Instacart has a lot of products with different price tags.  Marketing and sales want to use simpiler price range groupings to help direct their efforts.
 - Are there certain types of products that are more popular than others?  The marketing and sales teams want to know which departments have the highest frequency of product orders.
 - The marketing team and sales teams are particularly interested in the different types of customers in their system and how their ordering behaviors differ. For example:
-      - What's the distribution amoung users in regards to their brand loyalty (i.e., how often do they return to Instacart)?
-      - Are there differences in ordering habits based on a customer's loyalty status?
-      - Are there differences in ordering habits based on a customer's region?
-      - Is there a connection between age and family status in terms of ordering habits?
-      - What different classifications does the demographic information suggest? Age? Income? Certain types of goods? Family Status?
+   - What's the distribution amoung users in regards to their brand loyalty (i.e., how often do they return to Instacart)?
+   - Are there differences in ordering habits based on a customer's loyalty status?
+   - Are there differences in ordering habits based on a customer's region?
+   - Is there a connection between age and family status in terms of ordering habits?
+   - What different classifications does the demographic information suggest? Age? Income? Certain types of goods? Family Status?
 
 ## Tools
 The data was analyzed using Python and the following libraries:
